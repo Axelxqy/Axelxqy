@@ -6,8 +6,8 @@
   <img src="https://www.gitskins.com/api/section/hero?username=axelxqy&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F127613048%3Fv%3D4" alt="axelxqy hero visual" />
 </p>
 
-<h1>LyQaios</h1>
-<p><b>Frontend or full-stack engineer</b></p>
+<h1>Low Quan You</h1>
+<p><b>Software Developer/Engineer</b></p>
 
 </div>
 
